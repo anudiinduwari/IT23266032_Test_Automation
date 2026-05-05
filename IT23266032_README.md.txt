@@ -40,7 +40,7 @@ IT3040_Assignment_1/
 
 4. Run the automation script  
   
-python test_automation.py --excel "C:\Users\Acer\Desktop\IT23266032\IT23266032_Assignment 1 - Test cases.xlsx" --url "https://www.pixelssuite.com/chat-translator" --wait-ms 5000 --type-delay-ms 80 --slow-mo-ms 200 --save-every 1 --keep-open
+python IT23266032_test_automation.py --excel "C:\Users\Acer\Desktop\IT23266032\IT23266032_Assignment 1 - Test cases.xlsx" --url "https://www.pixelssuite.com/chat-translator" --wait-ms 5000 --type-delay-ms 80 --slow-mo-ms 200 --save-every 1 --keep-open
 ---
 
 ##  Output
