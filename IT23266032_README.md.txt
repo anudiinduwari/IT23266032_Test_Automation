@@ -12,10 +12,10 @@ https://github.com/anudiinduwari/IT23266032_Test_Automation.git
 
 IT3040_Assignment_1/
 
-- test_automation.py           → Playwright automation script  
+- IT23266032_test_automation.py           → Playwright automation script  
 - IT23266032_Assignment 1 - Test cases.xlsx → Excel file with test cases & results  
-- it23266032_Requirement.txt            → Python dependencies  
-- it23266032_README.md                  → Project documentation  
+- It23266032_Requirement.txt            → Python dependencies  
+- It23266032_README.md                  → Project documentation  
 
 ---
 
